@@ -10,6 +10,8 @@ print("Remember me?")
 print("Hello World!", end=" ")
 print("I will print on the same line.")
 
+print("Hello")
+
 # Print Numbers
 print(3)
 print(358)
